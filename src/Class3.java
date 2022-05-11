@@ -9,6 +9,8 @@ public class Class3 {
 		
 		
 		// this comment is added back in the local repo
+		
+		// sir, kindly review it once again for me, this is the message in the remote rep
 	}
 
 }
