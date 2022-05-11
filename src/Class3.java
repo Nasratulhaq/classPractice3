@@ -5,7 +5,7 @@ public class Class3 {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Hello");
+		System.out.println("Salam");
 		System.out.println("Hello");
 		System.out.println("Hello");
 		System.out.println("Hello");
