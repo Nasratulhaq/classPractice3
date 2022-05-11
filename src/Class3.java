@@ -7,6 +7,8 @@ public class Class3 {
 		
 		// some files deleted in the remote repo
 		
+		
+		// this comment is added back in the local repo
 	}
 
 }
