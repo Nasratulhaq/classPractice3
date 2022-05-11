@@ -5,11 +5,7 @@ public class Class3 {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Salam");
-		System.out.println("Hello");
-		System.out.println("Hello");
-		System.out.println("Hello");
-		System.out.println("Hello");
+		// some files deleted in the remote repo
 		
 	}
 
